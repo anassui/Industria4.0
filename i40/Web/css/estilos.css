@@ -1,0 +1,106 @@
+﻿body{
+    padding-bottom: 0px !important;
+}
+
+footer {
+    height: 100px;
+    background: #06752A;
+    color: white;
+}
+
+footer a {
+    color: white;
+}
+
+footer a:hover{
+    color:azure;
+}
+
+.tips{
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.tips span {
+    font-size: 36px;
+}
+
+.cuerpo{
+    margin: 50px 0 50px 0;
+}
+
+.lugares {
+    -webkit-background-size: cover !important;
+    -moz-background-size: cover !important;
+    -o-background-size: cover !important;
+    background-size: cover !important;
+    color: white;
+    min-height: 500px;
+    text-align:center;
+}
+
+.lugares-texto{
+    margin-top: 15%;
+}
+
+#isabela{
+    background: url(/img/dfg.jpeg) center center fixed;
+}
+
+#canoa{
+    background: url(/img/hij.jpeg) center bottom fixed;
+}
+
+#cochasqui{
+    background: url(/img/klm.jpeg) center bottom fixed;
+}
+
+#yasuni{
+    background: url(/img/bigdata.jpg) center center fixed;
+}
+
+#limoncocha{
+    background: url(/img/vj.jpg) center center fixed;
+}
+
+#tsachilas{
+    background: url(/img/interzasf.jpg) center center fixed;
+}
+
+#hieleros{
+    background: url(/img/future.jpg) center bottom fixed;
+}
+
+#encocado{
+    background: url(/img/2.jpg) center center fixed;
+    
+}
+#informacion0 {
+    background-color: #60A677;
+}
+#informacion1 {
+    background-color: #25A032;
+}
+#informacion2 {
+    background-color: #248823;
+}
+#informacion3 {
+    background-color: #006727;
+}
+#informacion4 {
+    background-color: #014422;
+}
+.mensaje {
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.validar {
+    color: red;
+    font-weight: bold;
+}
+
+.row.contacto input {
+    width: 70%;
+}
